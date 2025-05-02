@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection-Segmentation
+# MRIvision: Tumor Detection using Deep Learning
